@@ -1,0 +1,216 @@
+Category,Product,Year,Price (INR/kg)
+Fruits,Dates,2020,101.88
+Fruits,Dates,2021,103.39
+Fruits,Dates,2022,110.49
+Fruits,Dates,2023,108.61
+Fruits,Dates,2024,116.5
+Fruits,Avocado,2020,133.49
+Fruits,Avocado,2021,135.81
+Fruits,Avocado,2022,142.17
+Fruits,Avocado,2023,155.24
+Fruits,Avocado,2024,159.74
+Fruits,Lemon,2020,69.34
+Fruits,Lemon,2021,68.89
+Fruits,Lemon,2022,75.5
+Fruits,Lemon,2023,80.1
+Fruits,Lemon,2024,80.32
+Fruits,Grapefruit,2020,101.92
+Fruits,Grapefruit,2021,113.34
+Fruits,Grapefruit,2022,118.29
+Fruits,Grapefruit,2023,117.26
+Fruits,Grapefruit,2024,128.78
+Fruits,Guava,2020,58.05
+Fruits,Guava,2021,66.62
+Fruits,Guava,2022,64.55
+Fruits,Guava,2023,74.5
+Fruits,Guava,2024,78.09
+Fruits,Blueberries,2020,40.21
+Fruits,Blueberries,2021,43.04
+Fruits,Blueberries,2022,52.57
+Fruits,Blueberries,2023,47.17
+Fruits,Blueberries,2024,54.64
+Fruits,Oranges,2020,94.12
+Fruits,Oranges,2021,91.34
+Fruits,Oranges,2022,101.62
+Fruits,Oranges,2023,99.86
+Fruits,Oranges,2024,105.56
+Fruits,Pomegranate,2020,68.29
+Fruits,Pomegranate,2021,79.54
+Fruits,Pomegranate,2022,76.8
+Fruits,Pomegranate,2023,79.24
+Fruits,Pomegranate,2024,81.15
+Fruits,Figs,2020,66.84
+Fruits,Figs,2021,69.19
+Fruits,Figs,2022,72.55
+Fruits,Figs,2023,76.24
+Fruits,Figs,2024,83.59
+Fruits,Apples,2020,46.63
+Fruits,Apples,2021,49.65
+Fruits,Apples,2022,50.49
+Fruits,Apples,2023,51.61
+Fruits,Apples,2024,56.3
+Fruits,Melons,2020,65.42
+Fruits,Melons,2021,68.55
+Fruits,Melons,2022,74.01
+Fruits,Melons,2023,81.57
+Fruits,Melons,2024,83.75
+Fruits,Pineapple,2020,83.76
+Fruits,Pineapple,2021,94.97
+Fruits,Pineapple,2022,100.2
+Fruits,Pineapple,2023,97.93
+Fruits,Pineapple,2024,106.16
+Fruits,Berries,2020,124.58
+Fruits,Berries,2021,132.71
+Fruits,Berries,2022,137.23
+Fruits,Berries,2023,144.75
+Fruits,Berries,2024,148.86
+Fruits,Papaya,2020,36.17
+Fruits,Papaya,2021,37.15
+Fruits,Papaya,2022,39.07
+Fruits,Papaya,2023,41.19
+Fruits,Papaya,2024,40.62
+Fruits,Watermelon,2020,94.14
+Fruits,Watermelon,2021,98.68
+Fruits,Watermelon,2022,105.74
+Fruits,Watermelon,2023,111.85
+Fruits,Watermelon,2024,110.02
+Vegetables,Zucchini,2020,91.29
+Vegetables,Zucchini,2021,103.46
+Vegetables,Zucchini,2022,107.05
+Vegetables,Zucchini,2023,108.54
+Vegetables,Zucchini,2024,110.69
+Vegetables,Bell Peppers,2020,120.66
+Vegetables,Bell Peppers,2021,129.66
+Vegetables,Bell Peppers,2022,133.45
+Vegetables,Bell Peppers,2023,134.21
+Vegetables,Bell Peppers,2024,144.52
+Vegetables,Bitter Gourd,2020,41.7
+Vegetables,Bitter Gourd,2021,37.36
+Vegetables,Bitter Gourd,2022,38.31
+Vegetables,Bitter Gourd,2023,42.77
+Vegetables,Bitter Gourd,2024,48.95
+Vegetables,Cauliflower,2020,31.34
+Vegetables,Cauliflower,2021,32.53
+Vegetables,Cauliflower,2022,34.79
+Vegetables,Cauliflower,2023,37.6
+Vegetables,Cauliflower,2024,38.62
+Vegetables,Kale,2020,66.34
+Vegetables,Kale,2021,73.09
+Vegetables,Kale,2022,79.11
+Vegetables,Kale,2023,77.17
+Vegetables,Kale,2024,87.45
+Vegetables,Cabbage,2020,122.97
+Vegetables,Cabbage,2021,126.0
+Vegetables,Cabbage,2022,125.68
+Vegetables,Cabbage,2023,135.97
+Vegetables,Cabbage,2024,138.31
+Vegetables,Beetroot,2020,116.17
+Vegetables,Beetroot,2021,120.18
+Vegetables,Beetroot,2022,131.03
+Vegetables,Beetroot,2023,136.38
+Vegetables,Beetroot,2024,136.99
+Vegetables,Okra,2020,69.75
+Vegetables,Okra,2021,67.62
+Vegetables,Okra,2022,68.87
+Vegetables,Okra,2023,75.99
+Vegetables,Okra,2024,76.11
+Vegetables,Drumsticks,2020,142.14
+Vegetables,Drumsticks,2021,156.33
+Vegetables,Drumsticks,2022,161.89
+Vegetables,Drumsticks,2023,163.46
+Vegetables,Drumsticks,2024,171.17
+Vegetables,Spinach,2020,81.87
+Vegetables,Spinach,2021,85.11
+Vegetables,Spinach,2022,83.36
+Vegetables,Spinach,2023,90.62
+Vegetables,Spinach,2024,93.16
+Vegetables,Cucumber,2020,38.81
+Vegetables,Cucumber,2021,33.42
+Vegetables,Cucumber,2022,44.18
+Vegetables,Cucumber,2023,45.42
+Vegetables,Cucumber,2024,40.87
+Vegetables,Asparagus,2020,132.83
+Vegetables,Asparagus,2021,134.38
+Vegetables,Asparagus,2022,140.26
+Vegetables,Asparagus,2023,153.61
+Vegetables,Asparagus,2024,161.44
+Vegetables,Broccoli,2020,78.97
+Vegetables,Broccoli,2021,85.39
+Vegetables,Broccoli,2022,92.33
+Vegetables,Broccoli,2023,93.14
+Vegetables,Broccoli,2024,95.64
+Vegetables,Tomatoes,2020,107.26
+Vegetables,Tomatoes,2021,115.41
+Vegetables,Tomatoes,2022,118.01
+Vegetables,Tomatoes,2023,131.04
+Vegetables,Tomatoes,2024,131.79
+Vegetables,Carrots,2020,115.66
+Vegetables,Carrots,2021,118.3
+Vegetables,Carrots,2022,122.36
+Vegetables,Carrots,2023,132.04
+Vegetables,Carrots,2024,131.16
+Grains,Quinoa,2020,131.24
+Grains,Quinoa,2021,141.83
+Grains,Quinoa,2022,143.6
+Grains,Quinoa,2023,152.72
+Grains,Quinoa,2024,163.67
+Grains,Oats,2020,127.6
+Grains,Oats,2021,136.15
+Grains,Oats,2022,144.7
+Grains,Oats,2023,151.72
+Grains,Oats,2024,154.6
+Grains,Rice,2020,63.19
+Grains,Rice,2021,65.88
+Grains,Rice,2022,70.77
+Grains,Rice,2023,73.72
+Grains,Rice,2024,82.62
+Grains,Whole Wheat,2020,126.74
+Grains,Whole Wheat,2021,133.33
+Grains,Whole Wheat,2022,138.51
+Grains,Whole Wheat,2023,147.9
+Grains,Whole Wheat,2024,150.82
+Grains,Brown Rice,2020,135.53
+Grains,Brown Rice,2021,150.12
+Grains,Brown Rice,2022,150.32
+Grains,Brown Rice,2023,161.16
+Grains,Brown Rice,2024,163.31
+Grains,Barley,2020,86.19
+Grains,Barley,2021,91.63
+Grains,Barley,2022,90.33
+Grains,Barley,2023,103.05
+Grains,Barley,2024,102.53
+Grains,Ragi,2020,114.25
+Grains,Ragi,2021,119.76
+Grains,Ragi,2022,124.27
+Grains,Ragi,2023,130.55
+Grains,Ragi,2024,128.27
+Pulses,Black Gram,2020,94.78
+Pulses,Black Gram,2021,98.99
+Pulses,Black Gram,2022,108.86
+Pulses,Black Gram,2023,110.09
+Pulses,Black Gram,2024,115.99
+Pulses,Chickpeas,2020,110.28
+Pulses,Chickpeas,2021,109.64
+Pulses,Chickpeas,2022,115.35
+Pulses,Chickpeas,2023,126.02
+Pulses,Chickpeas,2024,127.83
+Pulses,Lentils,2020,136.07
+Pulses,Lentils,2021,143.48
+Pulses,Lentils,2022,145.17
+Pulses,Lentils,2023,158.64
+Pulses,Lentils,2024,159.12
+Pulses,Soybeans,2020,88.43
+Pulses,Soybeans,2021,91.54
+Pulses,Soybeans,2022,96.43
+Pulses,Soybeans,2023,95.29
+Pulses,Soybeans,2024,99.33
+Pulses,Green Gram,2020,129.76
+Pulses,Green Gram,2021,137.41
+Pulses,Green Gram,2022,142.38
+Pulses,Green Gram,2023,145.02
+Pulses,Green Gram,2024,155.69
+Pulses,Black-eyed Peas,2020,79.38
+Pulses,Black-eyed Peas,2021,89.34
+Pulses,Black-eyed Peas,2022,93.66
+Pulses,Black-eyed Peas,2023,94.35
+Pulses,Black-eyed Peas,2024,101.24
